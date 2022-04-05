@@ -1,0 +1,35 @@
+{
+    "name": "jurisdiction",
+    "children": [
+        {
+            "id": 840,
+            "name": "United states of America",
+            "value": 200
+        },
+        {
+            "id": 156,
+            "name": "China",
+            "value": 120
+        },
+        {
+            "id": 161,
+            "name": "Germany",
+            "value": 65
+        },
+        {
+            "id": 851,
+            "name": "France",
+            "value": 28
+        },
+        {
+            "id": 860,
+            "name": "Australia",
+            "value": 35
+        },
+        {
+            "id": 855,
+            "name": "Span",
+            "value": 51
+        }
+    ]
+}

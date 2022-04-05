@@ -1,0 +1,244 @@
+{
+    "nodes": [
+        {
+            "node": 101,
+            "name": "In progress"
+        },
+        {
+            "node": 102,
+            "name": "In review - Step 1"
+        },
+        {
+            "node": 103,
+            "name": "Publishable"
+        },
+        {
+            "node": 104,
+            "name": "Published"
+        },
+        {
+            "node": 105,
+            "name": "Archived"
+        },
+        {
+            "node": 106,
+            "name": "Under revision"
+        },
+        {
+            "node": 107,
+            "name": "Concern"
+        },
+        {
+            "node": 108,
+            "name": "Processing: HS"
+        },
+        {
+            "node": 109,
+            "name": "Processing: CPC"
+        },
+        {
+            "node": 110,
+            "name": "Processing: FIRM"
+        },
+        {
+            "node": 111,
+            "name": "Processing: VARIOUS"
+        },
+        {
+            "node": 112,
+            "name": "Pending methodological discussion"
+        },
+        {
+            "node": 113,
+            "name": "Revised"
+        },
+        {
+            "node": 114,
+            "name": "Hybrid"
+        },
+        {
+            "node": 115,
+            "name": "Melitz processing"
+        },
+        {
+            "node": 116,
+            "name": "Melitz conflict"
+        },
+        {
+            "node": 201,
+            "name": "In progress"
+        },
+        {
+            "node": 202,
+            "name": "In review - Step 1"
+        },
+        {
+            "node": 203,
+            "name": "Publishable"
+        },
+        {
+            "node": 204,
+            "name": "Published"
+        },
+        {
+            "node": 205,
+            "name": "Archived"
+        },
+        {
+            "node": 206,
+            "name": "Under revision"
+        },
+        {
+            "node": 207,
+            "name": "Concern"
+        },
+        {
+            "node": 208,
+            "name": "Processing: HS"
+        },
+        {
+            "node": 209,
+            "name": "Processing: CPC"
+        },
+        {
+            "node": 210,
+            "name": "Processing: FIRM"
+        },
+        {
+            "node": 211,
+            "name": "Processing: VARIOUS"
+        },
+        {
+            "node": 212,
+            "name": "Pending methodological discussion"
+        },
+        {
+            "node": 213,
+            "name": "Revised"
+        },
+        {
+            "node": 214,
+            "name": "Hybrid"
+        },
+        {
+            "node": 215,
+            "name": "Melitz processing"
+        },
+        {
+            "node": 216,
+            "name": "Melitz conflict"
+        }
+    ],
+    "links": [
+        {
+            "value": 3,
+            "source": 101,
+            "target": 205
+        },
+        {
+            "value": 7,
+            "source": 102,
+            "target": 202
+        },
+        {
+            "value": 10,
+            "source": 102,
+            "target": 204
+        },
+        {
+            "value": 90,
+            "source": 102,
+            "target": 205
+        },
+        {
+            "value": 11,
+            "source": 102,
+            "target": 206
+        },
+        {
+            "value": 5,
+            "source": 102,
+            "target": 212
+        },
+        {
+            "value": 3,
+            "source": 102,
+            "target": 213
+        },
+        {
+            "value": 7,
+            "source": 103,
+            "target": 204
+        },
+        {
+            "value": 1,
+            "source": 103,
+            "target": 212
+        },
+        {
+            "value": 2,
+            "source": 104,
+            "target": 204
+        },
+        {
+            "value": 1,
+            "source": 105,
+            "target": 204
+        },
+        {
+            "value": 6,
+            "source": 105,
+            "target": 205
+        },
+        {
+            "value": 2,
+            "source": 106,
+            "target": 204
+        },
+        {
+            "value": 1,
+            "source": 106,
+            "target": 212
+        },
+        {
+            "value": 4,
+            "source": 110,
+            "target": 202
+        },
+        {
+            "value": 4,
+            "source": 110,
+            "target": 204
+        },
+        {
+            "value": 2,
+            "source": 110,
+            "target": 206
+        },
+        {
+            "value": 11,
+            "source": 113,
+            "target": 202
+        },
+        {
+            "value": 1,
+            "source": 113,
+            "target": 203
+        },
+        {
+            "value": 4,
+            "source": 113,
+            "target": 204
+        },
+        {
+            "value": 1,
+            "source": 113,
+            "target": 205
+        },
+        {
+            "value": 3,
+            "source": 113,
+            "target": 213
+        }
+    ]
+}

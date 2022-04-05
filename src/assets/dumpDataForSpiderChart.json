@@ -1,0 +1,182 @@
+[
+    [
+        {
+            "label": "Email",
+            "value": 0.59
+        },
+        {
+            "label": "Social Networks",
+            "value": 0.56
+        },
+        {
+            "label": "Internet Banking",
+            "value": 0.42
+        },
+        {
+            "label": "News Sportsites",
+            "value": 0.34
+        },
+        {
+            "label": "Search Engine",
+            "value": 0.48
+        },
+        {
+            "label": "View Shopping sites",
+            "value": 0.14
+        },
+        {
+            "label": "Paying Online",
+            "value": 0.11
+        },
+        {
+            "label": "Buy Online",
+            "value": 0.05
+        },
+        {
+            "label": "Stream Music",
+            "value": 0.07
+        },
+        {
+            "label": "Online Gaming",
+            "value": 0.12
+        },
+        {
+            "label": "Navigation",
+            "value": 0.27
+        },
+        {
+            "label": "App connected to TV program",
+            "value": 0.03
+        },
+        {
+            "label": "Offline Gaming",
+            "value": 0.12
+        },
+        {
+            "label": "Photo Video",
+            "value": 0.4
+        },
+        {
+            "label": "Reading",
+            "value": 0.03
+        },
+        {
+            "label": "Listen Music",
+            "value": 0.22
+        },
+        {
+            "label": "Watch TV",
+            "value": 0.03
+        },
+        {
+            "label": "TV Movies Streaming",
+            "value": 0.03
+        },
+        {
+            "label": "Listen Radio",
+            "value": 0.07
+        },
+        {
+            "label": "Sending Money",
+            "value": 0.18
+        },
+        {
+            "label": "Other",
+            "value": 0.07
+        },
+        {
+            "label": "Use less Once week",
+            "value": 0.08
+        }
+    ],
+    [
+        {
+            "label": "Email",
+            "value": 0.48
+        },
+        {
+            "label": "Social Networks",
+            "value": 0.41
+        },
+        {
+            "label": "Internet Banking",
+            "value": 0.27
+        },
+        {
+            "label": "News Sportsites",
+            "value": 0.28
+        },
+        {
+            "label": "Search Engine",
+            "value": 0.46
+        },
+        {
+            "label": "View Shopping sites",
+            "value": 0.29
+        },
+        {
+            "label": "Paying Online",
+            "value": 0.11
+        },
+        {
+            "label": "Buy Online",
+            "value": 0.14
+        },
+        {
+            "label": "Stream Music",
+            "value": 0.05
+        },
+        {
+            "label": "Online Gaming",
+            "value": 0.19
+        },
+        {
+            "label": "Navigation",
+            "value": 0.14
+        },
+        {
+            "label": "App connected to TV program",
+            "value": 0.06
+        },
+        {
+            "label": "Offline Gaming",
+            "value": 0.24
+        },
+        {
+            "label": "Photo Video",
+            "value": 0.17
+        },
+        {
+            "label": "Reading",
+            "value": 0.15
+        },
+        {
+            "label": "Listen Music",
+            "value": 0.12
+        },
+        {
+            "label": "Watch TV",
+            "value": 0.1
+        },
+        {
+            "label": "TV Movies Streaming",
+            "value": 0.14
+        },
+        {
+            "label": "Listen Radio",
+            "value": 0.06
+        },
+        {
+            "label": "Sending Money",
+            "value": 0.16
+        },
+        {
+            "label": "Other",
+            "value": 0.07
+        },
+        {
+            "label": "Use less Once week",
+            "value": 0.17
+        }
+    ]
+]

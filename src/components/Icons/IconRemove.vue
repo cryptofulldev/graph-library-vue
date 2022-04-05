@@ -1,0 +1,28 @@
+<template>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    :height="height"
+    :width="width"
+    fill="black"
+  >
+    <path d="M0 0h24v24H0V0z" fill="none" />
+    <path d="M19 13H5v-2h14v2z" :fill="color" />
+  </svg>
+</template>
+
+<script>
+export default {
+  props: {
+    width: {
+      default: "24px",
+    },
+    height: {
+      default: "24px",
+    },
+    color: {
+      default: "#348BCB",
+    },
+  },
+};
+</script>

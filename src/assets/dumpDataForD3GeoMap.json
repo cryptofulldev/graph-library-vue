@@ -1,0 +1,52 @@
+[
+    {
+        "code": "US",
+        "value": 250,
+        "id": 1
+    },
+    {
+        "code": "CZ",
+        "value": 150,
+        "id": 2
+    },
+    {
+        "code": "UK",
+        "value": 150,
+        "id": 3
+    },
+    {
+        "code": "GA",
+        "value": 200,
+        "id": 4
+    },
+    {
+        "code": "ID",
+        "value": 110,
+        "id": 5
+    },
+    {
+        "code": "RU",
+        "value": 300,
+        "id": 6
+    },
+    {
+        "code": "JP",
+        "value": 10,
+        "id": 7
+    },
+    {
+        "code": "AU",
+        "value": 99,
+        "id": 8
+    },
+    {
+        "code": "CA",
+        "value": 86,
+        "id": 9
+    },
+    {
+        "code": "NZ",
+        "value": 50,
+        "id": 10
+    }
+]
